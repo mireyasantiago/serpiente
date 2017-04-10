@@ -1,0 +1,20 @@
+#cabezaSerpiente {
+  width: 100px;
+  height: 100px;
+  background-color: #580EB4;
+  position: absolute;
+
+
+
+
+}
+
+#bloque {
+  width: 500px;
+  height: 500px;
+  border: solid 5px;
+  border-color: black;
+  margin=right: auto;
+  margin-left: auto;
+
+}
